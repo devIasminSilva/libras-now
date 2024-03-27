@@ -1,18 +1,16 @@
-![banner](https://github.com/devIasminSilva/libras-now/assets/143299286/bbbf2de4-cb31-4254-bf76-10b0245d7eb5)
+![banner](https://github.com/devIasminSilva/libras-gesture-recognition/assets/143299286/a27fc15b-e38d-42a0-ad23-420e7d131adb)
 
+> Status: Complete ✅
 
-> Status: Em desenvolvimento 🔧
-
-Libras Now é um projeto que utiliza deep learning para reconhecer em tempo real os gestos do alfabeto manual da Língua Brasileira de Sinais (Libras). Implementado em Python, faz uso de bibliotecas como MediaPipe, OpenCV, TensorFlow e Keras. 
-
+This is a project that uses deep learning to recognize real-time gestures of the Brazilian Sign Language (Libras) alphabet. Implemented in Python, it makes use of libraries such as MediaPipe, OpenCV, TensorFlow, and Keras.
 
 ## Preview
 
-![preview](https://github.com/devIasminSilva/libras-now/assets/143299286/1ed84292-04cc-4cdb-967e-6319113b48da)
+![preview](https://github.com/devIasminSilva/libras-gesture-recognition/assets/143299286/a08a7466-500b-489f-add2-d0d4ff78a801)
 
-## Como começar
+## Getting Started
 
-#### Pré-requisitos:
+### Prerequisites:
 
 1. OpenCV
    ```
@@ -28,20 +26,20 @@ Libras Now é um projeto que utiliza deep learning para reconhecer em tempo real
    ```
 
 
-## Instalação
+### Installation
 
-1. Clone este repositório:
+1. Clone this repository:
    ```
-   git clone https://github.com/devIasminSilva/libras-now.git
+   git clone https://github.com/devIasminSilva/libras-gesture-recognition.git
    ```
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
    ```
-   cd libras-now
+   cd libras-gesture-recognition
    ```
-3. Execute a aplicação:
+3. Run the application:
    ```
    python main.py
    ```
 
-## Licença
-Este projeto é distribuído sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+## License
+This project is distributed under the MIT License. See the `LICENSE` file for more details.
